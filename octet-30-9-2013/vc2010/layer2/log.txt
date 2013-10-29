@@ -1,0 +1,815 @@
+created mesh LOD3spShape-lib
+add scene_node id=LOD3sp sid=(null)
+add scene_node id=camera1 sid=(null)
+add scene_node id=directionalLight1 sid=(null)
+add mesh instance LOD3spShape-lib+blinn3SG
+created mesh geomU3D1_id
+skin: add_joint 120
+skin: add_joint 121
+skin: add_joint 122
+skin: add_joint 123
+skin: add_joint 124
+skin: add_joint 125
+skin: add_joint 126
+skin: add_joint 127
+skin: add_joint 128
+skin: add_joint 129
+skin: add_joint 130
+skin: add_joint 131
+skin: add_joint 132
+skin: add_joint 133
+skin: add_joint 134
+skin: add_joint 135
+skin: add_joint 136
+skin: add_joint 137
+skin: add_joint 138
+skin: add_joint 139
+skin: add_joint 140
+skin: add_joint 141
+skin: add_joint 142
+skin: add_joint 143
+skin: add_joint 144
+skin: add_joint 145
+skin: add_joint 146
+skin: add_joint 147
+skin: add_joint 148
+skin: add_joint 149
+skin: add_joint 150
+skin: add_joint 151
+skin: add_joint 152
+skin: add_joint 153
+skin: add_joint 154
+skin: add_joint 155
+skin: add_joint 156
+skin: add_joint 157
+skin: add_joint 158
+skin: add_joint 159
+skin: add_joint 160
+skin: add_joint 161
+skin: add_joint 162
+skin: add_joint 163
+skin: add_joint 164
+skin: add_joint 165
+skin: add_joint 166
+skin: add_joint 167
+skin: add_joint 168
+skin: add_joint 169
+skin: add_joint 170
+created mesh skinU3D1_id
+add scene_node id=leopard_id sid=(null)
+add scene_node id=Leopard_id sid=(null)
+add scene_node id=Quadruped_Skeleton_Quadruped_Skeleton_id sid=(null)
+add scene_node id=Quadruped_Skeleton_GlobalSRT_id sid=(null)
+add scene_node id=Quadruped_Skeleton_UpperBody_id sid=Quadruped_Skeleton_UpperBody_id
+add scene_node id=Quadruped_Skeleton_SpineRoot_id sid=Quadruped_Skeleton_SpineRoot_id
+add scene_node id=Quadruped_Skeleton_BLLegRoot_id sid=Quadruped_Skeleton_BLLegRoot_id
+add scene_node id=Quadruped_Skeleton_BRLegRoot_id sid=Quadruped_Skeleton_BRLegRoot_id
+add scene_node id=Quadruped_Skeleton_root3_id sid=Quadruped_Skeleton_root3_id
+add scene_node id=Quadruped_Skeleton_Tail1_id sid=Quadruped_Skeleton_Tail1_id
+add scene_node id=Quadruped_Skeleton_Tail2_id sid=Quadruped_Skeleton_Tail2_id
+add scene_node id=Quadruped_Skeleton_Tail3_id sid=Quadruped_Skeleton_Tail3_id
+add scene_node id=Quadruped_Skeleton_Tail4_id sid=Quadruped_Skeleton_Tail4_id
+add scene_node id=Quadruped_Skeleton_BRFemur_id sid=Quadruped_Skeleton_BRFemur_id
+add scene_node id=Quadruped_Skeleton_BRTibia_id sid=Quadruped_Skeleton_BRTibia_id
+add scene_node id=Quadruped_Skeleton_BRMetarsal_id sid=Quadruped_Skeleton_BRMetarsal_id
+add scene_node id=Quadruped_Skeleton_eff4_id sid=Quadruped_Skeleton_eff4_id
+add scene_node id=Quadruped_Skeleton_BRFootRoot_id sid=Quadruped_Skeleton_BRFootRoot_id
+add scene_node id=Quadruped_Skeleton_BRFootBone1_id sid=(null)
+add scene_node id=Quadruped_Skeleton_BRFootBone2_id sid=Quadruped_Skeleton_BRFootBone2_id
+add scene_node id=Quadruped_Skeleton_BRFootBone3_id sid=Quadruped_Skeleton_BRFootBone3_id
+add scene_node id=Quadruped_Skeleton_BLFemur_id sid=Quadruped_Skeleton_BLFemur_id
+add scene_node id=Quadruped_Skeleton_BLTibia_id sid=Quadruped_Skeleton_BLTibia_id
+add scene_node id=Quadruped_Skeleton_BLMetarsal_id sid=Quadruped_Skeleton_BLMetarsal_id
+add scene_node id=Quadruped_Skeleton_eff2_id sid=Quadruped_Skeleton_eff2_id
+add scene_node id=Quadruped_Skeleton_BLFootRoot_id sid=Quadruped_Skeleton_BLFootRoot_id
+add scene_node id=Quadruped_Skeleton_BLFootBone1_id sid=(null)
+add scene_node id=Quadruped_Skeleton_BLFootBone2_id sid=Quadruped_Skeleton_BLFootBone2_id
+add scene_node id=Quadruped_Skeleton_BLFootBone3_id sid=Quadruped_Skeleton_BLFootBone3_id
+add scene_node id=Quadruped_Skeleton_Spine1_id sid=Quadruped_Skeleton_Spine1_id
+add scene_node id=Quadruped_Skeleton_Spine2_id sid=Quadruped_Skeleton_Spine2_id
+add scene_node id=Quadruped_Skeleton_Spine3_id sid=Quadruped_Skeleton_Spine3_id
+add scene_node id=Quadruped_Skeleton_Chest_id sid=Quadruped_Skeleton_Chest_id
+add scene_node id=Quadruped_Skeleton_ChestEffector_id sid=(null)
+add scene_node id=Quadruped_Skeleton_RShoulderRoot_id sid=Quadruped_Skeleton_RShoulderRoot_id
+add scene_node id=Quadruped_Skeleton_LShoulderRoot_id sid=Quadruped_Skeleton_LShoulderRoot_id
+add scene_node id=Quadruped_Skeleton_SpineRoot1_id sid=Quadruped_Skeleton_SpineRoot1_id
+add scene_node id=Quadruped_Skeleton_Spine4_id sid=(null)
+add scene_node id=Quadruped_Skeleton_Spine5_id sid=Quadruped_Skeleton_Spine5_id
+add scene_node id=Quadruped_Skeleton_Spine6_id sid=Quadruped_Skeleton_Spine6_id
+add scene_node id=Quadruped_Skeleton_Chest1_id sid=Quadruped_Skeleton_Chest1_id
+add scene_node id=Quadruped_Skeleton_LShoulder_id sid=Quadruped_Skeleton_LShoulder_id
+add scene_node id=Quadruped_Skeleton_eff1_id sid=Quadruped_Skeleton_eff1_id
+add scene_node id=Quadruped_Skeleton_LRoot_id sid=Quadruped_Skeleton_LRoot_id
+add scene_node id=Quadruped_Skeleton_LThigh_id sid=Quadruped_Skeleton_LThigh_id
+add scene_node id=Quadruped_Skeleton_LShin_id sid=Quadruped_Skeleton_LShin_id
+add scene_node id=Quadruped_Skeleton_eff6_id sid=Quadruped_Skeleton_eff6_id
+add scene_node id=Quadruped_Skeleton_LFootRoot_id sid=Quadruped_Skeleton_LFootRoot_id
+add scene_node id=Quadruped_Skeleton_LFootBone1_id sid=(null)
+add scene_node id=Quadruped_Skeleton_LFootBone2_id sid=Quadruped_Skeleton_LFootBone2_id
+add scene_node id=Quadruped_Skeleton_LFootBone3_id sid=Quadruped_Skeleton_LFootBone3_id
+add scene_node id=Quadruped_Skeleton_RShoulder_id sid=Quadruped_Skeleton_RShoulder_id
+add scene_node id=Quadruped_Skeleton_eff_id sid=Quadruped_Skeleton_eff_id
+add scene_node id=Quadruped_Skeleton_RRoot_id sid=Quadruped_Skeleton_RRoot_id
+add scene_node id=Quadruped_Skeleton_RThigh_id sid=Quadruped_Skeleton_RThigh_id
+add scene_node id=Quadruped_Skeleton_RShin_id sid=Quadruped_Skeleton_RShin_id
+add scene_node id=Quadruped_Skeleton_eff7_id sid=Quadruped_Skeleton_eff7_id
+add scene_node id=Quadruped_Skeleton_RFootRoot_id sid=Quadruped_Skeleton_RFootRoot_id
+add scene_node id=Quadruped_Skeleton_RFootBone1_id sid=(null)
+add scene_node id=Quadruped_Skeleton_RFootBone2_id sid=Quadruped_Skeleton_RFootBone2_id
+add scene_node id=Quadruped_Skeleton_RFootBone3_id sid=Quadruped_Skeleton_RFootBone3_id
+skeleton: add_bone 120 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, -0.000487, 0.000000], [0.000000, 0.000487, 1.000000, 0.000000], [-0.001196, 86.664200, -50.951900, 1.000000]]]
+skeleton: add_bone 166 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [0.000000, -0.868234, -21.066299, 1.000000]]]
+skeleton: add_bone 167 [[[-0.001310, -0.953453, -0.301540, 0.000000], [0.999999, -0.001373, -0.000000, 0.000000], [-0.000414, -0.301539, 0.953454, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 168 [[[0.995349, -0.000717, 0.096327, 0.000000], [0.000721, 1.000000, 0.000000, 0.000000], [-0.096327, 0.000069, 0.995350, 0.000000], [21.552279, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 169 [[[0.986739, -0.000573, -0.162317, 0.000000], [0.000580, 1.000000, -0.000000, 0.000000], [0.162317, -0.000094, 0.986739, 0.000000], [21.552299, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 170 [[[0.972331, -0.000459, -0.233601, 0.000000], [-0.000643, 0.999989, -0.004640, 0.000000], [0.233601, 0.004662, 0.972321, 0.000000], [21.552279, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 158 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [-10.355600, -3.928180, -11.584600, 1.000000]]]
+skeleton: add_bone 159 [[[-0.165620, -0.817849, 0.551084, 0.000000], [0.980105, -0.198478, 0.000000, 0.000000], [0.109378, 0.540120, 0.834450, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 160 [[[0.402926, 0.187298, -0.895863, 0.000000], [-0.495218, 0.867786, -0.041303, 0.000000], [0.769682, 0.460290, 0.442407, 0.000000], [24.060900, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 161 [[[0.825817, -0.224874, 0.517164, 0.000000], [0.563936, 0.326467, -0.758548, 0.000000], [0.001741, 0.918069, 0.396416, 0.000000], [45.311699, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 162 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [17.672800, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 163 [[[-0.023049, -0.352750, 0.935434, 0.000000], [-0.999733, 0.008127, -0.021569, 0.000000], [0.000006, -0.935682, -0.352844, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 0 [[[0.328880, -0.467450, 0.820566, 0.000000], [0.817860, 0.575416, -0.000000, 0.000000], [-0.472167, 0.671109, 0.571552, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 164 [[[0.999160, 0.027382, 0.030470, 0.000000], [-0.027395, 0.999625, 0.000000, 0.000000], [-0.030459, -0.000835, 0.999536, 0.000000], [4.691225, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 165 [[[0.962818, 0.212227, 0.167148, 0.000000], [0.266480, -0.644544, -0.716625, 0.000000], [-0.044353, 0.734522, -0.677134, 0.000000], [4.421535, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 150 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [10.355600, -3.928180, -11.584600, 1.000000]]]
+skeleton: add_bone 151 [[[0.165642, -0.817847, 0.551079, 0.000000], [0.980100, 0.198504, 0.000000, 0.000000], [-0.109392, 0.540113, 0.834453, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 152 [[[0.402930, -0.187296, -0.895861, 0.000000], [0.450380, 0.892695, 0.015932, 0.000000], [0.796747, -0.409898, 0.444048, 0.000000], [24.060900, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 153 [[[0.825817, 0.194923, 0.529180, 0.000000], [0.563936, -0.282542, -0.775981, 0.000000], [-0.001740, 0.939242, -0.343252, 0.000000], [45.311699, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 154 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [17.672800, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 155 [[[-0.023049, -0.352750, -0.935434, 0.000000], [-0.999734, 0.008127, 0.021569, 0.000000], [-0.000006, 0.935681, -0.352844, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 0 [[[0.328887, -0.467451, -0.820562, 0.000000], [0.817856, 0.575422, -0.000000, 0.000000], [0.472170, -0.671101, 0.571557, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 156 [[[0.999161, 0.027382, -0.030471, 0.000000], [-0.027394, 0.999625, -0.000000, 0.000000], [0.030459, 0.000835, 0.999536, 0.000000], [4.691230, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 157 [[[0.962819, 0.212223, -0.167154, 0.000000], [0.266481, -0.644531, 0.716636, 0.000000], [0.044351, -0.734534, -0.677121, 0.000000], [4.421530, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 121 [[[-0.000000, 0.000000, -1.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [1.000000, 0.000000, -0.000000, 0.000000], [0.000000, 2.618790, 7.723100, 1.000000]]]
+skeleton: add_bone 122 [[[-0.995673, -0.092927, -0.000561, 0.000000], [0.092927, -0.995672, -0.000947, 0.000000], [-0.000470, -0.000995, 0.999998, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 123 [[[0.999303, 0.037336, -0.000415, 0.000000], [-0.037338, 0.999296, -0.003273, 0.000000], [0.000293, 0.003286, 0.999995, 0.000000], [18.417200, 0.000010, 0.000000, 1.000000]]]
+skeleton: add_bone 124 [[[0.999771, 0.021373, 0.001176, 0.000000], [-0.021370, 0.999769, -0.002457, 0.000000], [-0.001229, 0.002431, 0.999995, 0.000000], [18.417000, 0.000010, 0.000000, 1.000000]]]
+skeleton: add_bone 125 [[[0.999999, -0.000676, 0.001382, 0.000000], [0.000678, 0.999999, -0.001341, 0.000000], [-0.001381, 0.001342, 0.999998, 0.000000], [18.417101, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 0 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [18.417601, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 146 [[[-0.994654, 0.103261, 0.000000, 0.000000], [-0.103261, -0.994654, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [-0.002652, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 0 [[[-0.875995, 0.482319, 0.001111, 0.000000], [-0.482319, -0.875995, 0.000263, 0.000000], [0.001100, -0.000306, 0.999999, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 147 [[[0.993370, 0.114949, 0.001842, 0.000000], [-0.114949, 0.993370, 0.000231, 0.000000], [-0.001803, -0.000442, 0.999998, 0.000000], [9.242190, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 148 [[[0.994649, 0.103303, 0.001163, 0.000000], [-0.103303, 0.994650, 0.000593, 0.000000], [-0.001095, -0.000710, 0.999999, 0.000000], [9.240940, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 149 [[[0.999252, 0.038670, 0.000125, 0.000000], [-0.038670, 0.999251, 0.001115, 0.000000], [-0.000082, -0.001119, 0.999999, 0.000000], [9.236060, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 136 [[[-0.000000, 0.000000, 0.999999, 0.000000], [-0.994654, 0.103268, -0.000000, 0.000000], [-0.103268, -0.994653, -0.000000, 0.000000], [0.000364, -0.000052, 7.541472, 1.000000]]]
+skeleton: add_bone 137 [[[0.196938, -0.471163, -0.859778, 0.000000], [0.922458, 0.386098, -0.000288, 0.000000], [0.332095, -0.793053, 0.510665, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 138 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [14.170600, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 139 [[[0.195863, 0.922627, 0.332258, 0.000000], [-0.861460, -0.000001, 0.507825, 0.000000], [0.468534, -0.385691, 0.794807, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 140 [[[0.281180, -0.799050, -0.531466, 0.000000], [0.000001, 0.553810, -0.832642, 0.000000], [0.959655, 0.234122, 0.155721, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 141 [[[0.689285, -0.683470, -0.240319, 0.000000], [-0.381384, -0.060281, -0.922448, 0.000000], [0.615980, 0.727484, -0.302215, 0.000000], [24.675301, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 142 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [41.281399, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 143 [[[-0.002045, 0.418849, 0.908053, 0.000000], [-0.999986, 0.003582, -0.003904, 0.000000], [-0.004888, -0.908047, 0.418837, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 0 [[[-0.736682, -0.521581, -0.430410, 0.000000], [0.577843, -0.816148, -0.000000, 0.000000], [-0.351278, -0.248710, 0.902633, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 144 [[[0.999185, -0.038048, -0.013372, 0.000000], [0.038052, 0.999276, 0.000000, 0.000000], [0.013362, -0.000509, 0.999911, 0.000000], [4.691225, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 145 [[[0.962818, -0.235320, -0.132690, 0.000000], [0.266487, 0.907934, 0.323481, 0.000000], [0.044352, -0.346813, 0.936885, 0.000000], [4.421530, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 126 [[[-0.000000, 0.000000, 0.999999, 0.000000], [-0.994654, 0.103268, -0.000000, 0.000000], [-0.103268, -0.994653, -0.000000, 0.000000], [0.000364, -0.000052, -7.541472, 1.000000]]]
+skeleton: add_bone 127 [[[-0.194791, -0.471336, -0.860173, 0.000000], [-0.922796, 0.385282, -0.002145, 0.000000], [0.332421, 0.793347, -0.509996, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 128 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [14.170600, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 129 [[[-0.195858, -0.922629, 0.332258, 0.000000], [-0.861458, -0.000008, -0.507829, 0.000000], [0.468541, -0.385689, -0.794803, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 130 [[[-0.265478, -0.807551, -0.526669, 0.000000], [-0.000003, 0.546274, -0.837604, 0.000000], [0.964117, -0.222365, -0.145026, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 131 [[[0.697695, -0.673055, 0.245395, 0.000000], [-0.377202, -0.053917, 0.924558, 0.000000], [-0.609049, -0.737624, -0.291494, 0.000000], [24.675301, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 132 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [41.281399, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 133 [[[-0.002045, -0.418850, 0.908051, 0.000000], [-0.999986, -0.003580, -0.003904, 0.000000], [0.004885, -0.908049, -0.418835, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 0 [[[0.738867, -0.525994, -0.421195, 0.000000], [0.579947, 0.814654, 0.000000, 0.000000], [0.343129, -0.244271, 0.906969, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 134 [[[0.999114, 0.039457, -0.014668, 0.000000], [-0.039461, 0.999221, -0.000000, 0.000000], [0.014657, 0.000579, 0.999892, 0.000000], [4.691230, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 135 [[[0.962822, 0.234545, -0.134025, 0.000000], [0.266472, -0.906077, 0.328658, 0.000000], [-0.044352, -0.352154, -0.934890, 0.000000], [4.421530, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 126 [[[-0.000000, 0.000000, 0.999999, 0.000000], [-0.994654, 0.103268, -0.000000, 0.000000], [-0.103268, -0.994653, -0.000000, 0.000000], [0.000364, -0.000052, -7.541472, 1.000000]]]
+skeleton: add_bone 127 [[[-0.194791, -0.471336, -0.860173, 0.000000], [-0.922796, 0.385282, -0.002145, 0.000000], [0.332421, 0.793347, -0.509996, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 128 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [14.170600, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 129 [[[-0.195858, -0.922629, 0.332258, 0.000000], [-0.861458, -0.000008, -0.507829, 0.000000], [0.468541, -0.385689, -0.794803, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 130 [[[-0.265478, -0.807551, -0.526669, 0.000000], [-0.000003, 0.546274, -0.837604, 0.000000], [0.964117, -0.222365, -0.145026, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 131 [[[0.697695, -0.673055, 0.245395, 0.000000], [-0.377202, -0.053917, 0.924558, 0.000000], [-0.609049, -0.737624, -0.291494, 0.000000], [24.675301, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 132 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [41.281399, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 133 [[[-0.002045, -0.418850, 0.908051, 0.000000], [-0.999986, -0.003580, -0.003904, 0.000000], [0.004885, -0.908049, -0.418835, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 0 [[[0.738867, -0.525994, -0.421195, 0.000000], [0.579947, 0.814654, 0.000000, 0.000000], [0.343129, -0.244271, 0.906969, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 134 [[[0.999114, 0.039457, -0.014668, 0.000000], [-0.039461, 0.999221, -0.000000, 0.000000], [0.014657, 0.000579, 0.999892, 0.000000], [4.691230, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 135 [[[0.962822, 0.234545, -0.134025, 0.000000], [0.266472, -0.906077, 0.328658, 0.000000], [-0.044352, -0.352154, -0.934890, 0.000000], [4.421530, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 134 [[[0.999114, 0.039457, -0.014668, 0.000000], [-0.039461, 0.999221, -0.000000, 0.000000], [0.014657, 0.000579, 0.999892, 0.000000], [4.691230, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 135 [[[0.962822, 0.234545, -0.134025, 0.000000], [0.266472, -0.906077, 0.328658, 0.000000], [-0.044352, -0.352154, -0.934890, 0.000000], [4.421530, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 136 [[[-0.000000, 0.000000, 0.999999, 0.000000], [-0.994654, 0.103268, -0.000000, 0.000000], [-0.103268, -0.994653, -0.000000, 0.000000], [0.000364, -0.000052, 7.541472, 1.000000]]]
+skeleton: add_bone 137 [[[0.196938, -0.471163, -0.859778, 0.000000], [0.922458, 0.386098, -0.000288, 0.000000], [0.332095, -0.793053, 0.510665, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 138 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [14.170600, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 139 [[[0.195863, 0.922627, 0.332258, 0.000000], [-0.861460, -0.000001, 0.507825, 0.000000], [0.468534, -0.385691, 0.794807, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 140 [[[0.281180, -0.799050, -0.531466, 0.000000], [0.000001, 0.553810, -0.832642, 0.000000], [0.959655, 0.234122, 0.155721, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 141 [[[0.689285, -0.683470, -0.240319, 0.000000], [-0.381384, -0.060281, -0.922448, 0.000000], [0.615980, 0.727484, -0.302215, 0.000000], [24.675301, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 142 [[[1.000000, 0.000000, 0.000000, 0.000000], [0.000000, 1.000000, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [41.281399, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 143 [[[-0.002045, 0.418849, 0.908053, 0.000000], [-0.999986, 0.003582, -0.003904, 0.000000], [-0.004888, -0.908047, 0.418837, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 0 [[[-0.736682, -0.521581, -0.430410, 0.000000], [0.577843, -0.816148, -0.000000, 0.000000], [-0.351278, -0.248710, 0.902633, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 144 [[[0.999185, -0.038048, -0.013372, 0.000000], [0.038052, 0.999276, 0.000000, 0.000000], [0.013362, -0.000509, 0.999911, 0.000000], [4.691225, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 145 [[[0.962818, -0.235320, -0.132690, 0.000000], [0.266487, 0.907934, 0.323481, 0.000000], [0.044352, -0.346813, 0.936885, 0.000000], [4.421530, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 144 [[[0.999185, -0.038048, -0.013372, 0.000000], [0.038052, 0.999276, 0.000000, 0.000000], [0.013362, -0.000509, 0.999911, 0.000000], [4.691225, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 145 [[[0.962818, -0.235320, -0.132690, 0.000000], [0.266487, 0.907934, 0.323481, 0.000000], [0.044352, -0.346813, 0.936885, 0.000000], [4.421530, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 146 [[[-0.994654, 0.103261, 0.000000, 0.000000], [-0.103261, -0.994654, 0.000000, 0.000000], [0.000000, 0.000000, 1.000000, 0.000000], [-0.002652, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 0 [[[-0.875995, 0.482319, 0.001111, 0.000000], [-0.482319, -0.875995, 0.000263, 0.000000], [0.001100, -0.000306, 0.999999, 0.000000], [0.000000, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 147 [[[0.993370, 0.114949, 0.001842, 0.000000], [-0.114949, 0.993370, 0.000231, 0.000000], [-0.001803, -0.000442, 0.999998, 0.000000], [9.242190, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 148 [[[0.994649, 0.103303, 0.001163, 0.000000], [-0.103303, 0.994650, 0.000593, 0.000000], [-0.001095, -0.000710, 0.999999, 0.000000], [9.240940, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 149 [[[0.999252, 0.038670, 0.000125, 0.000000], [-0.038670, 0.999251, 0.001115, 0.000000], [-0.000082, -0.001119, 0.999999, 0.000000], [9.236060, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 147 [[[0.993370, 0.114949, 0.001842, 0.000000], [-0.114949, 0.993370, 0.000231, 0.000000], [-0.001803, -0.000442, 0.999998, 0.000000], [9.242190, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 148 [[[0.994649, 0.103303, 0.001163, 0.000000], [-0.103303, 0.994650, 0.000593, 0.000000], [-0.001095, -0.000710, 0.999999, 0.000000], [9.240940, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 149 [[[0.999252, 0.038670, 0.000125, 0.000000], [-0.038670, 0.999251, 0.001115, 0.000000], [-0.000082, -0.001119, 0.999999, 0.000000], [9.236060, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 156 [[[0.999161, 0.027382, -0.030471, 0.000000], [-0.027394, 0.999625, -0.000000, 0.000000], [0.030459, 0.000835, 0.999536, 0.000000], [4.691230, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 157 [[[0.962819, 0.212223, -0.167154, 0.000000], [0.266481, -0.644531, 0.716636, 0.000000], [0.044351, -0.734534, -0.677121, 0.000000], [4.421530, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 164 [[[0.999160, 0.027382, 0.030470, 0.000000], [-0.027395, 0.999625, 0.000000, 0.000000], [-0.030459, -0.000835, 0.999536, 0.000000], [4.691225, 0.000000, 0.000000, 1.000000]]]
+skeleton: add_bone 165 [[[0.962818, 0.212227, 0.167148, 0.000000], [0.266480, -0.644544, -0.716625, 0.000000], [-0.044353, 0.734522, -0.677134, 0.000000], [4.421535, 0.000000, 0.000000, 1.000000]]]
+add mesh instance #skinU3D1_id+VisualMaterial0
+animation leopard_translate_id
+  channel target leopard_id translation 
+animation leopard_rotateZ_id
+  channel target leopard_id rotateZ ANGLE
+animation leopard_rotateY_id
+  channel target leopard_id rotateY ANGLE
+animation leopard_rotateX_id
+  channel target leopard_id rotateX ANGLE
+animation leopard_scale_id
+  channel target leopard_id scale 
+animation Quadruped_Skeleton_Quadruped_Skeleton_translate_id
+  channel target Quadruped_Skeleton_Quadruped_Skeleton_id translation 
+animation Quadruped_Skeleton_Quadruped_Skeleton_rotateZ_id
+  channel target Quadruped_Skeleton_Quadruped_Skeleton_id rotateZ ANGLE
+animation Quadruped_Skeleton_Quadruped_Skeleton_rotateY_id
+  channel target Quadruped_Skeleton_Quadruped_Skeleton_id rotateY ANGLE
+animation Quadruped_Skeleton_Quadruped_Skeleton_rotateX_id
+  channel target Quadruped_Skeleton_Quadruped_Skeleton_id rotateX ANGLE
+animation Quadruped_Skeleton_Quadruped_Skeleton_scale_id
+  channel target Quadruped_Skeleton_Quadruped_Skeleton_id scale 
+animation Quadruped_Skeleton_GlobalSRT_translate_id
+  channel target Quadruped_Skeleton_GlobalSRT_id translation 
+animation Quadruped_Skeleton_GlobalSRT_rotateZ_id
+  channel target Quadruped_Skeleton_GlobalSRT_id rotateZ ANGLE
+animation Quadruped_Skeleton_GlobalSRT_rotateY_id
+  channel target Quadruped_Skeleton_GlobalSRT_id rotateY ANGLE
+animation Quadruped_Skeleton_GlobalSRT_rotateX_id
+  channel target Quadruped_Skeleton_GlobalSRT_id rotateX ANGLE
+animation Quadruped_Skeleton_GlobalSRT_scale_id
+  channel target Quadruped_Skeleton_GlobalSRT_id scale 
+animation Quadruped_Skeleton_UpperBody_translate_id
+  channel target Quadruped_Skeleton_UpperBody_id translation 
+animation Quadruped_Skeleton_UpperBody_rotateZ_id
+  channel target Quadruped_Skeleton_UpperBody_id rotateZ ANGLE
+animation Quadruped_Skeleton_UpperBody_rotateY_id
+  channel target Quadruped_Skeleton_UpperBody_id rotateY ANGLE
+animation Quadruped_Skeleton_UpperBody_rotateX_id
+  channel target Quadruped_Skeleton_UpperBody_id rotateX ANGLE
+animation Quadruped_Skeleton_UpperBody_scale_id
+  channel target Quadruped_Skeleton_UpperBody_id scale 
+animation Quadruped_Skeleton_SpineRoot_translate_id
+  channel target Quadruped_Skeleton_SpineRoot_id translation 
+animation Quadruped_Skeleton_SpineRoot_rotateZ_id
+  channel target Quadruped_Skeleton_SpineRoot_id rotateZ ANGLE
+animation Quadruped_Skeleton_SpineRoot_rotateY_id
+  channel target Quadruped_Skeleton_SpineRoot_id rotateY ANGLE
+animation Quadruped_Skeleton_SpineRoot_rotateX_id
+  channel target Quadruped_Skeleton_SpineRoot_id rotateX ANGLE
+animation Quadruped_Skeleton_SpineRoot_scale_id
+  channel target Quadruped_Skeleton_SpineRoot_id scale 
+animation Quadruped_Skeleton_Spine1_translate_id
+  channel target Quadruped_Skeleton_Spine1_id translation 
+animation Quadruped_Skeleton_Spine1_rotateZ_id
+  channel target Quadruped_Skeleton_Spine1_id rotateZ ANGLE
+animation Quadruped_Skeleton_Spine1_rotateY_id
+  channel target Quadruped_Skeleton_Spine1_id rotateY ANGLE
+animation Quadruped_Skeleton_Spine1_rotateX_id
+  channel target Quadruped_Skeleton_Spine1_id rotateX ANGLE
+animation Quadruped_Skeleton_Spine1_scale_id
+  channel target Quadruped_Skeleton_Spine1_id scale 
+animation Quadruped_Skeleton_Spine2_translate_id
+  channel target Quadruped_Skeleton_Spine2_id translation 
+animation Quadruped_Skeleton_Spine2_rotateZ_id
+  channel target Quadruped_Skeleton_Spine2_id rotateZ ANGLE
+animation Quadruped_Skeleton_Spine2_rotateY_id
+  channel target Quadruped_Skeleton_Spine2_id rotateY ANGLE
+animation Quadruped_Skeleton_Spine2_rotateX_id
+  channel target Quadruped_Skeleton_Spine2_id rotateX ANGLE
+animation Quadruped_Skeleton_Spine2_scale_id
+  channel target Quadruped_Skeleton_Spine2_id scale 
+animation Quadruped_Skeleton_Spine3_translate_id
+  channel target Quadruped_Skeleton_Spine3_id translation 
+animation Quadruped_Skeleton_Spine3_rotateZ_id
+  channel target Quadruped_Skeleton_Spine3_id rotateZ ANGLE
+animation Quadruped_Skeleton_Spine3_rotateY_id
+  channel target Quadruped_Skeleton_Spine3_id rotateY ANGLE
+animation Quadruped_Skeleton_Spine3_rotateX_id
+  channel target Quadruped_Skeleton_Spine3_id rotateX ANGLE
+animation Quadruped_Skeleton_Spine3_scale_id
+  channel target Quadruped_Skeleton_Spine3_id scale 
+animation Quadruped_Skeleton_Chest_translate_id
+  channel target Quadruped_Skeleton_Chest_id translation 
+animation Quadruped_Skeleton_Chest_rotateZ_id
+  channel target Quadruped_Skeleton_Chest_id rotateZ ANGLE
+animation Quadruped_Skeleton_Chest_rotateY_id
+  channel target Quadruped_Skeleton_Chest_id rotateY ANGLE
+animation Quadruped_Skeleton_Chest_rotateX_id
+  channel target Quadruped_Skeleton_Chest_id rotateX ANGLE
+animation Quadruped_Skeleton_Chest_scale_id
+  channel target Quadruped_Skeleton_Chest_id scale 
+animation Quadruped_Skeleton_ChestEffector_translate_id
+  channel target Quadruped_Skeleton_ChestEffector_id translation 
+animation Quadruped_Skeleton_ChestEffector_rotateZ_id
+  channel target Quadruped_Skeleton_ChestEffector_id rotateZ ANGLE
+animation Quadruped_Skeleton_ChestEffector_rotateY_id
+  channel target Quadruped_Skeleton_ChestEffector_id rotateY ANGLE
+animation Quadruped_Skeleton_ChestEffector_rotateX_id
+  channel target Quadruped_Skeleton_ChestEffector_id rotateX ANGLE
+animation Quadruped_Skeleton_ChestEffector_scale_id
+  channel target Quadruped_Skeleton_ChestEffector_id scale 
+animation Quadruped_Skeleton_RShoulderRoot_translate_id
+  channel target Quadruped_Skeleton_RShoulderRoot_id translation 
+animation Quadruped_Skeleton_RShoulderRoot_rotateZ_id
+  channel target Quadruped_Skeleton_RShoulderRoot_id rotateZ ANGLE
+animation Quadruped_Skeleton_RShoulderRoot_rotateY_id
+  channel target Quadruped_Skeleton_RShoulderRoot_id rotateY ANGLE
+animation Quadruped_Skeleton_RShoulderRoot_rotateX_id
+  channel target Quadruped_Skeleton_RShoulderRoot_id rotateX ANGLE
+animation Quadruped_Skeleton_RShoulderRoot_scale_id
+  channel target Quadruped_Skeleton_RShoulderRoot_id scale 
+animation Quadruped_Skeleton_RShoulder_translate_id
+  channel target Quadruped_Skeleton_RShoulder_id translation 
+animation Quadruped_Skeleton_RShoulder_rotateZ_id
+  channel target Quadruped_Skeleton_RShoulder_id rotateZ ANGLE
+animation Quadruped_Skeleton_RShoulder_rotateY_id
+  channel target Quadruped_Skeleton_RShoulder_id rotateY ANGLE
+animation Quadruped_Skeleton_RShoulder_rotateX_id
+  channel target Quadruped_Skeleton_RShoulder_id rotateX ANGLE
+animation Quadruped_Skeleton_RShoulder_scale_id
+  channel target Quadruped_Skeleton_RShoulder_id scale 
+animation Quadruped_Skeleton_eff_translate_id
+  channel target Quadruped_Skeleton_eff_id translation 
+animation Quadruped_Skeleton_eff_rotateZ_id
+  channel target Quadruped_Skeleton_eff_id rotateZ ANGLE
+animation Quadruped_Skeleton_eff_rotateY_id
+  channel target Quadruped_Skeleton_eff_id rotateY ANGLE
+animation Quadruped_Skeleton_eff_rotateX_id
+  channel target Quadruped_Skeleton_eff_id rotateX ANGLE
+animation Quadruped_Skeleton_eff_scale_id
+  channel target Quadruped_Skeleton_eff_id scale 
+animation Quadruped_Skeleton_RRoot_translate_id
+  channel target Quadruped_Skeleton_RRoot_id translation 
+animation Quadruped_Skeleton_RRoot_rotateZ_id
+  channel target Quadruped_Skeleton_RRoot_id rotateZ ANGLE
+animation Quadruped_Skeleton_RRoot_rotateY_id
+  channel target Quadruped_Skeleton_RRoot_id rotateY ANGLE
+animation Quadruped_Skeleton_RRoot_rotateX_id
+  channel target Quadruped_Skeleton_RRoot_id rotateX ANGLE
+animation Quadruped_Skeleton_RRoot_scale_id
+  channel target Quadruped_Skeleton_RRoot_id scale 
+animation Quadruped_Skeleton_RThigh_translate_id
+  channel target Quadruped_Skeleton_RThigh_id translation 
+animation Quadruped_Skeleton_RThigh_rotateZ_id
+  channel target Quadruped_Skeleton_RThigh_id rotateZ ANGLE
+animation Quadruped_Skeleton_RThigh_rotateY_id
+  channel target Quadruped_Skeleton_RThigh_id rotateY ANGLE
+animation Quadruped_Skeleton_RThigh_rotateX_id
+  channel target Quadruped_Skeleton_RThigh_id rotateX ANGLE
+animation Quadruped_Skeleton_RThigh_scale_id
+  channel target Quadruped_Skeleton_RThigh_id scale 
+animation Quadruped_Skeleton_RShin_translate_id
+  channel target Quadruped_Skeleton_RShin_id translation 
+animation Quadruped_Skeleton_RShin_rotateZ_id
+  channel target Quadruped_Skeleton_RShin_id rotateZ ANGLE
+animation Quadruped_Skeleton_RShin_rotateY_id
+  channel target Quadruped_Skeleton_RShin_id rotateY ANGLE
+animation Quadruped_Skeleton_RShin_rotateX_id
+  channel target Quadruped_Skeleton_RShin_id rotateX ANGLE
+animation Quadruped_Skeleton_RShin_scale_id
+  channel target Quadruped_Skeleton_RShin_id scale 
+animation Quadruped_Skeleton_eff7_translate_id
+  channel target Quadruped_Skeleton_eff7_id translation 
+animation Quadruped_Skeleton_eff7_rotateZ_id
+  channel target Quadruped_Skeleton_eff7_id rotateZ ANGLE
+animation Quadruped_Skeleton_eff7_rotateY_id
+  channel target Quadruped_Skeleton_eff7_id rotateY ANGLE
+animation Quadruped_Skeleton_eff7_rotateX_id
+  channel target Quadruped_Skeleton_eff7_id rotateX ANGLE
+animation Quadruped_Skeleton_eff7_scale_id
+  channel target Quadruped_Skeleton_eff7_id scale 
+animation Quadruped_Skeleton_RFootRoot_translate_id
+  channel target Quadruped_Skeleton_RFootRoot_id translation 
+animation Quadruped_Skeleton_RFootRoot_rotateZ_id
+  channel target Quadruped_Skeleton_RFootRoot_id rotateZ ANGLE
+animation Quadruped_Skeleton_RFootRoot_rotateY_id
+  channel target Quadruped_Skeleton_RFootRoot_id rotateY ANGLE
+animation Quadruped_Skeleton_RFootRoot_rotateX_id
+  channel target Quadruped_Skeleton_RFootRoot_id rotateX ANGLE
+animation Quadruped_Skeleton_RFootRoot_scale_id
+  channel target Quadruped_Skeleton_RFootRoot_id scale 
+animation Quadruped_Skeleton_RFootBone1_translate_id
+  channel target Quadruped_Skeleton_RFootBone1_id translation 
+animation Quadruped_Skeleton_RFootBone1_rotateZ_id
+  channel target Quadruped_Skeleton_RFootBone1_id rotateZ ANGLE
+animation Quadruped_Skeleton_RFootBone1_rotateY_id
+  channel target Quadruped_Skeleton_RFootBone1_id rotateY ANGLE
+animation Quadruped_Skeleton_RFootBone1_rotateX_id
+  channel target Quadruped_Skeleton_RFootBone1_id rotateX ANGLE
+animation Quadruped_Skeleton_RFootBone1_scale_id
+  channel target Quadruped_Skeleton_RFootBone1_id scale 
+animation Quadruped_Skeleton_RFootBone2_translate_id
+  channel target Quadruped_Skeleton_RFootBone2_id translation 
+animation Quadruped_Skeleton_RFootBone2_rotateZ_id
+  channel target Quadruped_Skeleton_RFootBone2_id rotateZ ANGLE
+animation Quadruped_Skeleton_RFootBone2_rotateY_id
+  channel target Quadruped_Skeleton_RFootBone2_id rotateY ANGLE
+animation Quadruped_Skeleton_RFootBone2_rotateX_id
+  channel target Quadruped_Skeleton_RFootBone2_id rotateX ANGLE
+animation Quadruped_Skeleton_RFootBone2_scale_id
+  channel target Quadruped_Skeleton_RFootBone2_id scale 
+animation Quadruped_Skeleton_RFootBone3_translate_id
+  channel target Quadruped_Skeleton_RFootBone3_id translation 
+animation Quadruped_Skeleton_RFootBone3_rotateZ_id
+  channel target Quadruped_Skeleton_RFootBone3_id rotateZ ANGLE
+animation Quadruped_Skeleton_RFootBone3_rotateY_id
+  channel target Quadruped_Skeleton_RFootBone3_id rotateY ANGLE
+animation Quadruped_Skeleton_RFootBone3_rotateX_id
+  channel target Quadruped_Skeleton_RFootBone3_id rotateX ANGLE
+animation Quadruped_Skeleton_RFootBone3_scale_id
+  channel target Quadruped_Skeleton_RFootBone3_id scale 
+animation Quadruped_Skeleton_LShoulderRoot_translate_id
+  channel target Quadruped_Skeleton_LShoulderRoot_id translation 
+animation Quadruped_Skeleton_LShoulderRoot_rotateZ_id
+  channel target Quadruped_Skeleton_LShoulderRoot_id rotateZ ANGLE
+animation Quadruped_Skeleton_LShoulderRoot_rotateY_id
+  channel target Quadruped_Skeleton_LShoulderRoot_id rotateY ANGLE
+animation Quadruped_Skeleton_LShoulderRoot_rotateX_id
+  channel target Quadruped_Skeleton_LShoulderRoot_id rotateX ANGLE
+animation Quadruped_Skeleton_LShoulderRoot_scale_id
+  channel target Quadruped_Skeleton_LShoulderRoot_id scale 
+animation Quadruped_Skeleton_LShoulder_translate_id
+  channel target Quadruped_Skeleton_LShoulder_id translation 
+animation Quadruped_Skeleton_LShoulder_rotateZ_id
+  channel target Quadruped_Skeleton_LShoulder_id rotateZ ANGLE
+animation Quadruped_Skeleton_LShoulder_rotateY_id
+  channel target Quadruped_Skeleton_LShoulder_id rotateY ANGLE
+animation Quadruped_Skeleton_LShoulder_rotateX_id
+  channel target Quadruped_Skeleton_LShoulder_id rotateX ANGLE
+animation Quadruped_Skeleton_LShoulder_scale_id
+  channel target Quadruped_Skeleton_LShoulder_id scale 
+animation Quadruped_Skeleton_eff1_translate_id
+  channel target Quadruped_Skeleton_eff1_id translation 
+animation Quadruped_Skeleton_eff1_rotateZ_id
+  channel target Quadruped_Skeleton_eff1_id rotateZ ANGLE
+animation Quadruped_Skeleton_eff1_rotateY_id
+  channel target Quadruped_Skeleton_eff1_id rotateY ANGLE
+animation Quadruped_Skeleton_eff1_rotateX_id
+  channel target Quadruped_Skeleton_eff1_id rotateX ANGLE
+animation Quadruped_Skeleton_eff1_scale_id
+  channel target Quadruped_Skeleton_eff1_id scale 
+animation Quadruped_Skeleton_LRoot_translate_id
+  channel target Quadruped_Skeleton_LRoot_id translation 
+animation Quadruped_Skeleton_LRoot_rotateZ_id
+  channel target Quadruped_Skeleton_LRoot_id rotateZ ANGLE
+animation Quadruped_Skeleton_LRoot_rotateY_id
+  channel target Quadruped_Skeleton_LRoot_id rotateY ANGLE
+animation Quadruped_Skeleton_LRoot_rotateX_id
+  channel target Quadruped_Skeleton_LRoot_id rotateX ANGLE
+animation Quadruped_Skeleton_LRoot_scale_id
+  channel target Quadruped_Skeleton_LRoot_id scale 
+animation Quadruped_Skeleton_LThigh_translate_id
+  channel target Quadruped_Skeleton_LThigh_id translation 
+animation Quadruped_Skeleton_LThigh_rotateZ_id
+  channel target Quadruped_Skeleton_LThigh_id rotateZ ANGLE
+animation Quadruped_Skeleton_LThigh_rotateY_id
+  channel target Quadruped_Skeleton_LThigh_id rotateY ANGLE
+animation Quadruped_Skeleton_LThigh_rotateX_id
+  channel target Quadruped_Skeleton_LThigh_id rotateX ANGLE
+animation Quadruped_Skeleton_LThigh_scale_id
+  channel target Quadruped_Skeleton_LThigh_id scale 
+animation Quadruped_Skeleton_LShin_translate_id
+  channel target Quadruped_Skeleton_LShin_id translation 
+animation Quadruped_Skeleton_LShin_rotateZ_id
+  channel target Quadruped_Skeleton_LShin_id rotateZ ANGLE
+animation Quadruped_Skeleton_LShin_rotateY_id
+  channel target Quadruped_Skeleton_LShin_id rotateY ANGLE
+animation Quadruped_Skeleton_LShin_rotateX_id
+  channel target Quadruped_Skeleton_LShin_id rotateX ANGLE
+animation Quadruped_Skeleton_LShin_scale_id
+  channel target Quadruped_Skeleton_LShin_id scale 
+animation Quadruped_Skeleton_eff6_translate_id
+  channel target Quadruped_Skeleton_eff6_id translation 
+animation Quadruped_Skeleton_eff6_rotateZ_id
+  channel target Quadruped_Skeleton_eff6_id rotateZ ANGLE
+animation Quadruped_Skeleton_eff6_rotateY_id
+  channel target Quadruped_Skeleton_eff6_id rotateY ANGLE
+animation Quadruped_Skeleton_eff6_rotateX_id
+  channel target Quadruped_Skeleton_eff6_id rotateX ANGLE
+animation Quadruped_Skeleton_eff6_scale_id
+  channel target Quadruped_Skeleton_eff6_id scale 
+animation Quadruped_Skeleton_LFootRoot_translate_id
+  channel target Quadruped_Skeleton_LFootRoot_id translation 
+animation Quadruped_Skeleton_LFootRoot_rotateZ_id
+  channel target Quadruped_Skeleton_LFootRoot_id rotateZ ANGLE
+animation Quadruped_Skeleton_LFootRoot_rotateY_id
+  channel target Quadruped_Skeleton_LFootRoot_id rotateY ANGLE
+animation Quadruped_Skeleton_LFootRoot_rotateX_id
+  channel target Quadruped_Skeleton_LFootRoot_id rotateX ANGLE
+animation Quadruped_Skeleton_LFootRoot_scale_id
+  channel target Quadruped_Skeleton_LFootRoot_id scale 
+animation Quadruped_Skeleton_LFootBone1_translate_id
+  channel target Quadruped_Skeleton_LFootBone1_id translation 
+animation Quadruped_Skeleton_LFootBone1_rotateZ_id
+  channel target Quadruped_Skeleton_LFootBone1_id rotateZ ANGLE
+animation Quadruped_Skeleton_LFootBone1_rotateY_id
+  channel target Quadruped_Skeleton_LFootBone1_id rotateY ANGLE
+animation Quadruped_Skeleton_LFootBone1_rotateX_id
+  channel target Quadruped_Skeleton_LFootBone1_id rotateX ANGLE
+animation Quadruped_Skeleton_LFootBone1_scale_id
+  channel target Quadruped_Skeleton_LFootBone1_id scale 
+animation Quadruped_Skeleton_LFootBone2_translate_id
+  channel target Quadruped_Skeleton_LFootBone2_id translation 
+animation Quadruped_Skeleton_LFootBone2_rotateZ_id
+  channel target Quadruped_Skeleton_LFootBone2_id rotateZ ANGLE
+animation Quadruped_Skeleton_LFootBone2_rotateY_id
+  channel target Quadruped_Skeleton_LFootBone2_id rotateY ANGLE
+animation Quadruped_Skeleton_LFootBone2_rotateX_id
+  channel target Quadruped_Skeleton_LFootBone2_id rotateX ANGLE
+animation Quadruped_Skeleton_LFootBone2_scale_id
+  channel target Quadruped_Skeleton_LFootBone2_id scale 
+animation Quadruped_Skeleton_LFootBone3_translate_id
+  channel target Quadruped_Skeleton_LFootBone3_id translation 
+animation Quadruped_Skeleton_LFootBone3_rotateZ_id
+  channel target Quadruped_Skeleton_LFootBone3_id rotateZ ANGLE
+animation Quadruped_Skeleton_LFootBone3_rotateY_id
+  channel target Quadruped_Skeleton_LFootBone3_id rotateY ANGLE
+animation Quadruped_Skeleton_LFootBone3_rotateX_id
+  channel target Quadruped_Skeleton_LFootBone3_id rotateX ANGLE
+animation Quadruped_Skeleton_LFootBone3_scale_id
+  channel target Quadruped_Skeleton_LFootBone3_id scale 
+animation Quadruped_Skeleton_SpineRoot1_translate_id
+  channel target Quadruped_Skeleton_SpineRoot1_id translation 
+animation Quadruped_Skeleton_SpineRoot1_rotateZ_id
+  channel target Quadruped_Skeleton_SpineRoot1_id rotateZ ANGLE
+animation Quadruped_Skeleton_SpineRoot1_rotateY_id
+  channel target Quadruped_Skeleton_SpineRoot1_id rotateY ANGLE
+animation Quadruped_Skeleton_SpineRoot1_rotateX_id
+  channel target Quadruped_Skeleton_SpineRoot1_id rotateX ANGLE
+animation Quadruped_Skeleton_SpineRoot1_scale_id
+  channel target Quadruped_Skeleton_SpineRoot1_id scale 
+animation Quadruped_Skeleton_Spine4_translate_id
+  channel target Quadruped_Skeleton_Spine4_id translation 
+animation Quadruped_Skeleton_Spine4_rotateZ_id
+  channel target Quadruped_Skeleton_Spine4_id rotateZ ANGLE
+animation Quadruped_Skeleton_Spine4_rotateY_id
+  channel target Quadruped_Skeleton_Spine4_id rotateY ANGLE
+animation Quadruped_Skeleton_Spine4_rotateX_id
+  channel target Quadruped_Skeleton_Spine4_id rotateX ANGLE
+animation Quadruped_Skeleton_Spine4_scale_id
+  channel target Quadruped_Skeleton_Spine4_id scale 
+animation Quadruped_Skeleton_Spine5_translate_id
+  channel target Quadruped_Skeleton_Spine5_id translation 
+animation Quadruped_Skeleton_Spine5_rotateZ_id
+  channel target Quadruped_Skeleton_Spine5_id rotateZ ANGLE
+animation Quadruped_Skeleton_Spine5_rotateY_id
+  channel target Quadruped_Skeleton_Spine5_id rotateY ANGLE
+animation Quadruped_Skeleton_Spine5_rotateX_id
+  channel target Quadruped_Skeleton_Spine5_id rotateX ANGLE
+animation Quadruped_Skeleton_Spine5_scale_id
+  channel target Quadruped_Skeleton_Spine5_id scale 
+animation Quadruped_Skeleton_Spine6_translate_id
+  channel target Quadruped_Skeleton_Spine6_id translation 
+animation Quadruped_Skeleton_Spine6_rotateZ_id
+  channel target Quadruped_Skeleton_Spine6_id rotateZ ANGLE
+animation Quadruped_Skeleton_Spine6_rotateY_id
+  channel target Quadruped_Skeleton_Spine6_id rotateY ANGLE
+animation Quadruped_Skeleton_Spine6_rotateX_id
+  channel target Quadruped_Skeleton_Spine6_id rotateX ANGLE
+animation Quadruped_Skeleton_Spine6_scale_id
+  channel target Quadruped_Skeleton_Spine6_id scale 
+animation Quadruped_Skeleton_Chest1_translate_id
+  channel target Quadruped_Skeleton_Chest1_id translation 
+animation Quadruped_Skeleton_Chest1_rotateZ_id
+  channel target Quadruped_Skeleton_Chest1_id rotateZ ANGLE
+animation Quadruped_Skeleton_Chest1_rotateY_id
+  channel target Quadruped_Skeleton_Chest1_id rotateY ANGLE
+animation Quadruped_Skeleton_Chest1_rotateX_id
+  channel target Quadruped_Skeleton_Chest1_id rotateX ANGLE
+animation Quadruped_Skeleton_Chest1_scale_id
+  channel target Quadruped_Skeleton_Chest1_id scale 
+animation Quadruped_Skeleton_BLLegRoot_translate_id
+  channel target Quadruped_Skeleton_BLLegRoot_id translation 
+animation Quadruped_Skeleton_BLLegRoot_rotateZ_id
+  channel target Quadruped_Skeleton_BLLegRoot_id rotateZ ANGLE
+animation Quadruped_Skeleton_BLLegRoot_rotateY_id
+  channel target Quadruped_Skeleton_BLLegRoot_id rotateY ANGLE
+animation Quadruped_Skeleton_BLLegRoot_rotateX_id
+  channel target Quadruped_Skeleton_BLLegRoot_id rotateX ANGLE
+animation Quadruped_Skeleton_BLLegRoot_scale_id
+  channel target Quadruped_Skeleton_BLLegRoot_id scale 
+animation Quadruped_Skeleton_BLFemur_translate_id
+  channel target Quadruped_Skeleton_BLFemur_id translation 
+animation Quadruped_Skeleton_BLFemur_rotateZ_id
+  channel target Quadruped_Skeleton_BLFemur_id rotateZ ANGLE
+animation Quadruped_Skeleton_BLFemur_rotateY_id
+  channel target Quadruped_Skeleton_BLFemur_id rotateY ANGLE
+animation Quadruped_Skeleton_BLFemur_rotateX_id
+  channel target Quadruped_Skeleton_BLFemur_id rotateX ANGLE
+animation Quadruped_Skeleton_BLFemur_scale_id
+  channel target Quadruped_Skeleton_BLFemur_id scale 
+animation Quadruped_Skeleton_BLTibia_translate_id
+  channel target Quadruped_Skeleton_BLTibia_id translation 
+animation Quadruped_Skeleton_BLTibia_rotateZ_id
+  channel target Quadruped_Skeleton_BLTibia_id rotateZ ANGLE
+animation Quadruped_Skeleton_BLTibia_rotateY_id
+  channel target Quadruped_Skeleton_BLTibia_id rotateY ANGLE
+animation Quadruped_Skeleton_BLTibia_rotateX_id
+  channel target Quadruped_Skeleton_BLTibia_id rotateX ANGLE
+animation Quadruped_Skeleton_BLTibia_scale_id
+  channel target Quadruped_Skeleton_BLTibia_id scale 
+animation Quadruped_Skeleton_BLMetarsal_translate_id
+  channel target Quadruped_Skeleton_BLMetarsal_id translation 
+animation Quadruped_Skeleton_BLMetarsal_rotateZ_id
+  channel target Quadruped_Skeleton_BLMetarsal_id rotateZ ANGLE
+animation Quadruped_Skeleton_BLMetarsal_rotateY_id
+  channel target Quadruped_Skeleton_BLMetarsal_id rotateY ANGLE
+animation Quadruped_Skeleton_BLMetarsal_rotateX_id
+  channel target Quadruped_Skeleton_BLMetarsal_id rotateX ANGLE
+animation Quadruped_Skeleton_BLMetarsal_scale_id
+  channel target Quadruped_Skeleton_BLMetarsal_id scale 
+animation Quadruped_Skeleton_eff2_translate_id
+  channel target Quadruped_Skeleton_eff2_id translation 
+animation Quadruped_Skeleton_eff2_rotateZ_id
+  channel target Quadruped_Skeleton_eff2_id rotateZ ANGLE
+animation Quadruped_Skeleton_eff2_rotateY_id
+  channel target Quadruped_Skeleton_eff2_id rotateY ANGLE
+animation Quadruped_Skeleton_eff2_rotateX_id
+  channel target Quadruped_Skeleton_eff2_id rotateX ANGLE
+animation Quadruped_Skeleton_eff2_scale_id
+  channel target Quadruped_Skeleton_eff2_id scale 
+animation Quadruped_Skeleton_BLFootRoot_translate_id
+  channel target Quadruped_Skeleton_BLFootRoot_id translation 
+animation Quadruped_Skeleton_BLFootRoot_rotateZ_id
+  channel target Quadruped_Skeleton_BLFootRoot_id rotateZ ANGLE
+animation Quadruped_Skeleton_BLFootRoot_rotateY_id
+  channel target Quadruped_Skeleton_BLFootRoot_id rotateY ANGLE
+animation Quadruped_Skeleton_BLFootRoot_rotateX_id
+  channel target Quadruped_Skeleton_BLFootRoot_id rotateX ANGLE
+animation Quadruped_Skeleton_BLFootRoot_scale_id
+  channel target Quadruped_Skeleton_BLFootRoot_id scale 
+animation Quadruped_Skeleton_BLFootBone1_translate_id
+  channel target Quadruped_Skeleton_BLFootBone1_id translation 
+animation Quadruped_Skeleton_BLFootBone1_rotateZ_id
+  channel target Quadruped_Skeleton_BLFootBone1_id rotateZ ANGLE
+animation Quadruped_Skeleton_BLFootBone1_rotateY_id
+  channel target Quadruped_Skeleton_BLFootBone1_id rotateY ANGLE
+animation Quadruped_Skeleton_BLFootBone1_rotateX_id
+  channel target Quadruped_Skeleton_BLFootBone1_id rotateX ANGLE
+animation Quadruped_Skeleton_BLFootBone1_scale_id
+  channel target Quadruped_Skeleton_BLFootBone1_id scale 
+animation Quadruped_Skeleton_BLFootBone2_translate_id
+  channel target Quadruped_Skeleton_BLFootBone2_id translation 
+animation Quadruped_Skeleton_BLFootBone2_rotateZ_id
+  channel target Quadruped_Skeleton_BLFootBone2_id rotateZ ANGLE
+animation Quadruped_Skeleton_BLFootBone2_rotateY_id
+  channel target Quadruped_Skeleton_BLFootBone2_id rotateY ANGLE
+animation Quadruped_Skeleton_BLFootBone2_rotateX_id
+  channel target Quadruped_Skeleton_BLFootBone2_id rotateX ANGLE
+animation Quadruped_Skeleton_BLFootBone2_scale_id
+  channel target Quadruped_Skeleton_BLFootBone2_id scale 
+animation Quadruped_Skeleton_BLFootBone3_translate_id
+  channel target Quadruped_Skeleton_BLFootBone3_id translation 
+animation Quadruped_Skeleton_BLFootBone3_rotateZ_id
+  channel target Quadruped_Skeleton_BLFootBone3_id rotateZ ANGLE
+animation Quadruped_Skeleton_BLFootBone3_rotateY_id
+  channel target Quadruped_Skeleton_BLFootBone3_id rotateY ANGLE
+animation Quadruped_Skeleton_BLFootBone3_rotateX_id
+  channel target Quadruped_Skeleton_BLFootBone3_id rotateX ANGLE
+animation Quadruped_Skeleton_BLFootBone3_scale_id
+  channel target Quadruped_Skeleton_BLFootBone3_id scale 
+animation Quadruped_Skeleton_BRLegRoot_translate_id
+  channel target Quadruped_Skeleton_BRLegRoot_id translation 
+animation Quadruped_Skeleton_BRLegRoot_rotateZ_id
+  channel target Quadruped_Skeleton_BRLegRoot_id rotateZ ANGLE
+animation Quadruped_Skeleton_BRLegRoot_rotateY_id
+  channel target Quadruped_Skeleton_BRLegRoot_id rotateY ANGLE
+animation Quadruped_Skeleton_BRLegRoot_rotateX_id
+  channel target Quadruped_Skeleton_BRLegRoot_id rotateX ANGLE
+animation Quadruped_Skeleton_BRLegRoot_scale_id
+  channel target Quadruped_Skeleton_BRLegRoot_id scale 
+animation Quadruped_Skeleton_BRFemur_translate_id
+  channel target Quadruped_Skeleton_BRFemur_id translation 
+animation Quadruped_Skeleton_BRFemur_rotateZ_id
+  channel target Quadruped_Skeleton_BRFemur_id rotateZ ANGLE
+animation Quadruped_Skeleton_BRFemur_rotateY_id
+  channel target Quadruped_Skeleton_BRFemur_id rotateY ANGLE
+animation Quadruped_Skeleton_BRFemur_rotateX_id
+  channel target Quadruped_Skeleton_BRFemur_id rotateX ANGLE
+animation Quadruped_Skeleton_BRFemur_scale_id
+  channel target Quadruped_Skeleton_BRFemur_id scale 
+animation Quadruped_Skeleton_BRTibia_translate_id
+  channel target Quadruped_Skeleton_BRTibia_id translation 
+animation Quadruped_Skeleton_BRTibia_rotateZ_id
+  channel target Quadruped_Skeleton_BRTibia_id rotateZ ANGLE
+animation Quadruped_Skeleton_BRTibia_rotateY_id
+  channel target Quadruped_Skeleton_BRTibia_id rotateY ANGLE
+animation Quadruped_Skeleton_BRTibia_rotateX_id
+  channel target Quadruped_Skeleton_BRTibia_id rotateX ANGLE
+animation Quadruped_Skeleton_BRTibia_scale_id
+  channel target Quadruped_Skeleton_BRTibia_id scale 
+animation Quadruped_Skeleton_BRMetarsal_translate_id
+  channel target Quadruped_Skeleton_BRMetarsal_id translation 
+animation Quadruped_Skeleton_BRMetarsal_rotateZ_id
+  channel target Quadruped_Skeleton_BRMetarsal_id rotateZ ANGLE
+animation Quadruped_Skeleton_BRMetarsal_rotateY_id
+  channel target Quadruped_Skeleton_BRMetarsal_id rotateY ANGLE
+animation Quadruped_Skeleton_BRMetarsal_rotateX_id
+  channel target Quadruped_Skeleton_BRMetarsal_id rotateX ANGLE
+animation Quadruped_Skeleton_BRMetarsal_scale_id
+  channel target Quadruped_Skeleton_BRMetarsal_id scale 
+animation Quadruped_Skeleton_eff4_translate_id
+  channel target Quadruped_Skeleton_eff4_id translation 
+animation Quadruped_Skeleton_eff4_rotateZ_id
+  channel target Quadruped_Skeleton_eff4_id rotateZ ANGLE
+animation Quadruped_Skeleton_eff4_rotateY_id
+  channel target Quadruped_Skeleton_eff4_id rotateY ANGLE
+animation Quadruped_Skeleton_eff4_rotateX_id
+  channel target Quadruped_Skeleton_eff4_id rotateX ANGLE
+animation Quadruped_Skeleton_eff4_scale_id
+  channel target Quadruped_Skeleton_eff4_id scale 
+animation Quadruped_Skeleton_BRFootRoot_translate_id
+  channel target Quadruped_Skeleton_BRFootRoot_id translation 
+animation Quadruped_Skeleton_BRFootRoot_rotateZ_id
+  channel target Quadruped_Skeleton_BRFootRoot_id rotateZ ANGLE
+animation Quadruped_Skeleton_BRFootRoot_rotateY_id
+  channel target Quadruped_Skeleton_BRFootRoot_id rotateY ANGLE
+animation Quadruped_Skeleton_BRFootRoot_rotateX_id
+  channel target Quadruped_Skeleton_BRFootRoot_id rotateX ANGLE
+animation Quadruped_Skeleton_BRFootRoot_scale_id
+  channel target Quadruped_Skeleton_BRFootRoot_id scale 
+animation Quadruped_Skeleton_BRFootBone1_translate_id
+  channel target Quadruped_Skeleton_BRFootBone1_id translation 
+animation Quadruped_Skeleton_BRFootBone1_rotateZ_id
+  channel target Quadruped_Skeleton_BRFootBone1_id rotateZ ANGLE
+animation Quadruped_Skeleton_BRFootBone1_rotateY_id
+  channel target Quadruped_Skeleton_BRFootBone1_id rotateY ANGLE
+animation Quadruped_Skeleton_BRFootBone1_rotateX_id
+  channel target Quadruped_Skeleton_BRFootBone1_id rotateX ANGLE
+animation Quadruped_Skeleton_BRFootBone1_scale_id
+  channel target Quadruped_Skeleton_BRFootBone1_id scale 
+animation Quadruped_Skeleton_BRFootBone2_translate_id
+  channel target Quadruped_Skeleton_BRFootBone2_id translation 
+animation Quadruped_Skeleton_BRFootBone2_rotateZ_id
+  channel target Quadruped_Skeleton_BRFootBone2_id rotateZ ANGLE
+animation Quadruped_Skeleton_BRFootBone2_rotateY_id
+  channel target Quadruped_Skeleton_BRFootBone2_id rotateY ANGLE
+animation Quadruped_Skeleton_BRFootBone2_rotateX_id
+  channel target Quadruped_Skeleton_BRFootBone2_id rotateX ANGLE
+animation Quadruped_Skeleton_BRFootBone2_scale_id
+  channel target Quadruped_Skeleton_BRFootBone2_id scale 
+animation Quadruped_Skeleton_BRFootBone3_translate_id
+  channel target Quadruped_Skeleton_BRFootBone3_id translation 
+animation Quadruped_Skeleton_BRFootBone3_rotateZ_id
+  channel target Quadruped_Skeleton_BRFootBone3_id rotateZ ANGLE
+animation Quadruped_Skeleton_BRFootBone3_rotateY_id
+  channel target Quadruped_Skeleton_BRFootBone3_id rotateY ANGLE
+animation Quadruped_Skeleton_BRFootBone3_rotateX_id
+  channel target Quadruped_Skeleton_BRFootBone3_id rotateX ANGLE
+animation Quadruped_Skeleton_BRFootBone3_scale_id
+  channel target Quadruped_Skeleton_BRFootBone3_id scale 
+animation Quadruped_Skeleton_root3_translate_id
+  channel target Quadruped_Skeleton_root3_id translation 
+animation Quadruped_Skeleton_root3_rotateZ_id
+  channel target Quadruped_Skeleton_root3_id rotateZ ANGLE
+animation Quadruped_Skeleton_root3_rotateY_id
+  channel target Quadruped_Skeleton_root3_id rotateY ANGLE
+animation Quadruped_Skeleton_root3_rotateX_id
+  channel target Quadruped_Skeleton_root3_id rotateX ANGLE
+animation Quadruped_Skeleton_root3_scale_id
+  channel target Quadruped_Skeleton_root3_id scale 
+animation Quadruped_Skeleton_Tail1_translate_id
+  channel target Quadruped_Skeleton_Tail1_id translation 
+animation Quadruped_Skeleton_Tail1_rotateZ_id
+  channel target Quadruped_Skeleton_Tail1_id rotateZ ANGLE
+animation Quadruped_Skeleton_Tail1_rotateY_id
+  channel target Quadruped_Skeleton_Tail1_id rotateY ANGLE
+animation Quadruped_Skeleton_Tail1_rotateX_id
+  channel target Quadruped_Skeleton_Tail1_id rotateX ANGLE
+animation Quadruped_Skeleton_Tail1_scale_id
+  channel target Quadruped_Skeleton_Tail1_id scale 
+animation Quadruped_Skeleton_Tail2_translate_id
+  channel target Quadruped_Skeleton_Tail2_id translation 
+animation Quadruped_Skeleton_Tail2_rotateZ_id
+  channel target Quadruped_Skeleton_Tail2_id rotateZ ANGLE
+animation Quadruped_Skeleton_Tail2_rotateY_id
+  channel target Quadruped_Skeleton_Tail2_id rotateY ANGLE
+animation Quadruped_Skeleton_Tail2_rotateX_id
+  channel target Quadruped_Skeleton_Tail2_id rotateX ANGLE
+animation Quadruped_Skeleton_Tail2_scale_id
+  channel target Quadruped_Skeleton_Tail2_id scale 
+animation Quadruped_Skeleton_Tail3_translate_id
+  channel target Quadruped_Skeleton_Tail3_id translation 
+animation Quadruped_Skeleton_Tail3_rotateZ_id
+  channel target Quadruped_Skeleton_Tail3_id rotateZ ANGLE
+animation Quadruped_Skeleton_Tail3_rotateY_id
+  channel target Quadruped_Skeleton_Tail3_id rotateY ANGLE
+animation Quadruped_Skeleton_Tail3_rotateX_id
+  channel target Quadruped_Skeleton_Tail3_id rotateX ANGLE
+animation Quadruped_Skeleton_Tail3_scale_id
+  channel target Quadruped_Skeleton_Tail3_id scale 
+animation Quadruped_Skeleton_Tail4_translate_id
+  channel target Quadruped_Skeleton_Tail4_id translation 
+animation Quadruped_Skeleton_Tail4_rotateZ_id
+  channel target Quadruped_Skeleton_Tail4_id rotateZ ANGLE
+animation Quadruped_Skeleton_Tail4_rotateY_id
+  channel target Quadruped_Skeleton_Tail4_id rotateY ANGLE
+animation Quadruped_Skeleton_Tail4_rotateX_id
+  channel target Quadruped_Skeleton_Tail4_id rotateX ANGLE
+animation Quadruped_Skeleton_Tail4_scale_id
+  channel target Quadruped_Skeleton_Tail4_id scale 
